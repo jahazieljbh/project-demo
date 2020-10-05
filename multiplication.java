@@ -1,3 +1,0 @@
-/*
-multiplication code here
-*/
